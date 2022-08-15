@@ -7,9 +7,9 @@ function home () {
          <main className="text-center">
             <h1>HOME</h1>
             <div>
-              <img className="col-sm-12" src="/images/chia-fruit-drink.jpg" alt="Chia Fruit Shake" />
+              <img src="/images/ramen-pic.jpg" alt="ramen bowl" />
               <div>
-                Photo by <a href="AUTHOR_LINK">Brenda Godinez</a> on <a href="UNSPLASH_LINK">Unsplash</a>
+                Photo by <a href="AUTHOR_LINK">Michele Blackwell</a> on <a href="UNSPLASH_LINK">Unsplash</a>
               </div>
             </div>
             <a href="/places">
